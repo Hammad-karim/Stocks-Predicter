@@ -1,1 +1,2 @@
 # Stocks-Predicter
+This project is a Python-based Stock and Forex News Sentiment Analyzer that fetches real-time financial headlines using NewsAPI and analyzes their sentiment using the TextBlob library. It helps identify market mood—positive, negative, or neutral—based on news trends. Ideal for beginner traders and data enthusiasts looking to integrate news-based sentiment analysis into financial strategies.
